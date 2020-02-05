@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efdb1963-7754-497d-a70d-10ae76263855" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X9iAj1LOdBbOIyuzfwfsfLDpWg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="JAR Application.Unnamed">
+    <configuration name="Unnamed" type="AntRunConfiguration" nameIsGenerated="true">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextEditor" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="src/editor/Editor.java" />
+      <module name="Editor3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Editor.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Gustav\Desktop\Editor3" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Editor3" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Editor3" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Ant Target.Unnamed" />
+      <item itemvalue="Application.TextEditor" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efdb1963-7754-497d-a70d-10ae76263855" name="Default Changelist" comment="" />
+      <created>1580464569424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580464569424</updated>
+      <workItem from="1580464571137" duration="1690000" />
+      <workItem from="1580503050205" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="83" key="#TextEditor" timestamp="1580464785127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="83" key="#TextEditor/0.0.1536.824@0.0.1536.824" timestamp="1580464785127" />
+    <state x="230" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580469247902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="230" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580469247902" />
+    <state x="234" y="279" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580469246734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="234" y="279" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1580469246734" />
+    <state x="606" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580464633106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="606" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1580464633106" />
+    <state x="555" y="236" key="FileChooserDialogImpl" timestamp="1580503138166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="236" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580503138166" />
+    <state width="1495" height="211" key="GridCell.Tab.0.bottom" timestamp="1580469250339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580469250339" />
+    <state width="1495" height="211" key="GridCell.Tab.0.center" timestamp="1580469250339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580469250339" />
+    <state width="1495" height="211" key="GridCell.Tab.0.left" timestamp="1580469250339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580469250339" />
+    <state width="1495" height="211" key="GridCell.Tab.0.right" timestamp="1580469250339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1495" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580469250339" />
+    <state x="533" y="255" key="NewModule_or_Project.wizard" timestamp="1580503110688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="255" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1580503110688" />
+    <state x="250" y="0" key="SettingsEditor" timestamp="1580468882188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580468882188" />
+    <state x="413" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1580503050363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="413" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580503050363" />
+  </component>
+</project>
